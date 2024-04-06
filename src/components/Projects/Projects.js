@@ -61,7 +61,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1> */}
         <h1 style={{ color: "white" }}>
-          Some <strong className="purple">Front-end </strong> projects created by me.
+          Some <strong className="purple">Front-end </strong> projects which I have created.
         </h1>
           <Col md={4} className="project-card">
             <ProjectCard
