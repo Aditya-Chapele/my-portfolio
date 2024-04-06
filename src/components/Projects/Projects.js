@@ -51,7 +51,7 @@ function Projects() {
               imgPath={DecentralDocketImg}
               title="Decentral Docket"
               // description="Developed a React Native app for student collaboration, utilizing React Native, Figma, Solidity, and JavaScript.Integrated advanced web3.0 and IPFS storage for document and NFT security.Implemented user-friendly chatroom group creation and management for seamless communication and file sharing among students."
-              description="Secure document sharing and chat features for student teamwork."
+              description="Secure document sharing and chat features for student teamwork using blockchain and IPFS."
               isCode={true}
               live=""
               code="https://github.com/Mihiroar/DecentralDocket"
