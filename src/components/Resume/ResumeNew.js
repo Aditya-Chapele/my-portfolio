@@ -9,8 +9,8 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  // "https://raw.githubusercontent.com/beebus/portfolio/master/src/Assets/AdityaChapele_Resume.pdf";
-  "https://raw.githubusercontent.com/Aditya-Chapele/Web-Mini-Project/main/Aditya%20Chapele_CV.pdf";
+ "https://raw.githubusercontent.com/Aditya-Chapele/Web-Mini-Project/main/Resume.pdf"
+
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
