@@ -53,6 +53,7 @@ function Projects() {
               // description="Developed a React Native app for student collaboration, utilizing React Native, Figma, Solidity, and JavaScript.Integrated advanced web3.0 and IPFS storage for document and NFT security.Implemented user-friendly chatroom group creation and management for seamless communication and file sharing among students."
               description="Secure document sharing and chat features for student teamwork."
               isCode={true}
+              live=""
               code="https://github.com/Mihiroar/DecentralDocket"
             />
           </Col>
@@ -68,7 +69,6 @@ function Projects() {
               title="Food Website"
               description="Developed a visually appealing food website, focusing on showcasing an array of culinary delights and menu offerings to entice visitors with a tantalizing visual experience"
               isCode={true}
-              isDemo={true}
               live=""
               code="https://github.com/Aditya-Chapele/Food-Website"
    
