@@ -4,18 +4,13 @@ import ProjectCard from "./ProjectCards";
 // import BlogCard from "./BlogsCards";
 import Particle from "../Particle";
 
-// import leaf from "../../Assets/Projects/leaf.png";
-// import emotion from "../../Assets/Projects/emotion.jpeg";
-// import editor from "../../Assets/Projects/codeEditor.png";
-// import chatify from "../../Assets/Projects/chatify.png";
-// import suicide from "../../Assets/Projects/suicide.png";
 import BharatBhramanImg from "../../Assets/BharatBhraman.png";
 import IndianTourismImg from "../../Assets/IndianTourism.png";
 import FoodWebsiteImg from "../../Assets/FoodWebsite.png";
 import HeadPhonesImg from "../../Assets/Headphones.png";
 import CaffineHouseImg from "../../Assets/CaffineHouse.png";
-// import algo from "../../Assets/Projects/algo.png";
-// import plant from "../../Assets/Projects/plant.jpeg";
+import DecentralDocketImg from "../../Assets/DecetralDocket.png";
+
 
 function Projects() {
   return (
