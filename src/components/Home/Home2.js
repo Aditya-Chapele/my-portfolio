@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               Since I was a kid, I have loved programming, mathematics, data analysis and problem solving.
               <br />
-              <br />I have quite knowledge of programming languages including
+              <br />I have quite a knowledge of programming languages including
               <i>
                 <b className="purple"> C, Java, Python, C++, JavaScript</b>
               </i>
