@@ -7,7 +7,7 @@ import {
     DiNodejs,
     DiBootstrap,
     DiPython,
-    DiDjango, DiJava, DiRasberryPi
+    DiJava
 } from "react-icons/di";
 import {SiJupyter} from "react-icons/si";
 
