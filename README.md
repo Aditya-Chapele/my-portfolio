@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v1.0.0<br/>
-  <a href="" target="_blank"></a>
+  My Portfolio<br/>
+  <a href="https://adityac.vercel.app/" target="_blank"></a>
 </h2>
 <div align="center">
 <!--   <img alt="Demo" src="./Images/readme-img1.png" /> -->
