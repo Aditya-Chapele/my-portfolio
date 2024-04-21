@@ -3,21 +3,10 @@
   <a href="" target="_blank"></a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+<!--   <img alt="Demo" src="./Images/readme-img1.png" /> -->
 </div>
 
 <br/>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/beebus/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/beebus/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
 
 Welcome to my portfolio website, <a href="https:https://adityac.vercel.app/ target="_blank">michaelbeebower.com</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
 
